@@ -1,0 +1,83 @@
+:root {
+    --admin-blue: #1992d4;
+    --feed-gray: #e2e8f0;
+}
+
+li {
+    list-style-type: none;
+}
+
+a, .icon-text {
+    color: white;
+}
+
+.icon-text {
+    font-size: x-large;
+    text-decoration: none;
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+    justify-content: center;
+    align-items: center;
+}
+
+#dashboard-logo {
+    font-size: xx-large;
+}
+
+.icon {
+    height: 1em;
+    width: 1em;
+}
+
+.white-svg {
+    filter: invert(100%);
+}
+
+body {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+#main-grid-container {
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+    grid-template-rows: 1fr 5fr;
+}
+
+.sidebar {
+    color: white;
+    display: grid;
+    grid-row: 1 / -1;
+    grid-column-start: 1;
+
+    display: grid;
+    grid-template-rows: 63px 1fr 1fr 1fr 1fr;
+    align-items: center;
+    text-align: start;
+
+    background-color: var(--admin-blue);
+}
+
+#main-icons > li {
+    margin: 10px;
+}
+
+#settings-icons > li {
+    margin: 10px;
+}
+
+.navbar {
+    display: grid;
+    grid-column-start: 2;
+    grid-row-start: 1;
+
+    background-color: white;
+}
+
+#feed-area {
+    display: grid;
+    grid-area: 2 / 2 / -1 / -1;
+
+    background-color: var(--feed-gray)
+}
