@@ -9,11 +9,11 @@ Messages icon by Google: https://pictogrammers.com/library/mdi/icon/message-repl
 Tasks icon by Austin Andrews : https://pictogrammers.com/library/mdi/icon/note-multiple/  
 Communities icon by GreenTurtwig : https://pictogrammers.com/library/mdi/icon/account-group/  
 Settings icon by Google: https://pictogrammers.com/library/mdi/icon/cog/  
-Support icon by Austin Andrews: https://pictogrammers.com/library/mdi/icon/help-box/\
-Privacy icon by Google: https://pictogrammers.com/library/mdi/icon/shield-check/\
-search icon by Google: https://pictogrammers.com/library/mdi/icon/magnify/\
-Notification icon by Google: https://pictogrammers.com/library/mdi/icon/bell-ring/\
-Dashboard icon by Google: https://pictogrammers.com/library/mdi/icon/view-dashboard/\
-Favorite icon by Michael Irigoyen: https://pictogrammers.com/library/mdi/icon/star-plus-outline/\
-Watch icon by GreenTurtwig: https://pictogrammers.com/library/mdi/icon/eye-plus-outline/\
-Share icon by Michael Irigoyen: https://pictogrammers.com/library/mdi/icon/share-variant-outline/\
+Support icon by Austin Andrews: https://pictogrammers.com/library/mdi/icon/help-box/  
+Privacy icon by Google: https://pictogrammers.com/library/mdi/icon/shield-check/  
+search icon by Google: https://pictogrammers.com/library/mdi/icon/magnify/  
+Notification icon by Google: https://pictogrammers.com/library/mdi/icon/bell-ring/  
+Dashboard icon by Google: https://pictogrammers.com/library/mdi/icon/view-dashboard/  
+Favorite icon by Michael Irigoyen: https://pictogrammers.com/library/mdi/icon/star-plus-outline/  
+Watch icon by GreenTurtwig: https://pictogrammers.com/library/mdi/icon/eye-plus-outline/  
+Share icon by Michael Irigoyen: https://pictogrammers.com/library/mdi/icon/share-variant-outline/  
